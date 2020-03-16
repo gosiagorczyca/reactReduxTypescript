@@ -1,2 +1,0 @@
-# reactReduxTypescript
-Created with CodeSandbox
